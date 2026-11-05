@@ -1,0 +1,19 @@
+Summary (computed from the Scoring sheet; no composite score by design),,,,,,,,
+Criterion,Name,Reported,Partly,Not reported,N/A,Applicable,% Reported,% Reported or Partly
+C1,Sample size stated,0,4,7,0,11,0,0.36363636363636365
+C2,Number of runs / seeds stated,0,0,11,0,11,0,0
+C3,Uncertainty reported,4,5,1,1,10,0.4,0.9
+C4,Baseline or comparison provided,8,2,0,1,10,0.8,1
+C5,Comparability caveats stated,8,1,0,2,9,0.8888888888888888,1
+C6,Metric and scoring rule defined,6,4,1,0,11,0.5454545454545454,0.9090909090909091
+C7,Grader described,5,4,1,1,10,0.5,0.9
+C8,Grader validated,0,1,7,3,8,0,0.125
+C9,Elicitation described,0,6,0,5,6,0,1
+C10,Threshold or decision rule justified,0,2,8,1,10,0,0.2
+C11,Materials for reproduction available,0,5,6,0,11,0,0.45454545454545453
+J1,Conclusion follows from data (Evaluations sheet),,,,,,,
+,Yes,1,,,,,,
+,Partly,8,,,,,,
+,No,0,,,,,,
+,Can't tell,2,,,,,,
+Evaluations rated (rows with an ID):,,11,,,,,,

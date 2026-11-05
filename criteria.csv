@@ -1,0 +1,14 @@
+Reporting criteria (checklist items rated on the Scoring sheet),,,,
+ID,Criterion,What counts as 'Reported',Why it matters,Validation area (analogy)
+C1,Sample size stated,Number of items/cases/tasks is given for the evaluation,Small n makes rates and differences unstable,Outcomes analysis
+C2,Number of runs / seeds stated,How many repeated runs or rollouts underlie each number,Run-to-run variance cannot be judged otherwise,Outcomes analysis
+C3,Uncertainty reported,"Confidence interval, error bar or explicit noise estimate",Separates real differences from noise,Outcomes analysis
+C4,Baseline or comparison provided,"Previous model, human baseline or simple method for context",A number without a reference has no meaning,Outcomes analysis
+C5,Comparability caveats stated,"Notes if graders, policies, datasets or versions changed between compared results",Prevents false trend claims,Process and implementation
+C6,Metric and scoring rule defined,"Precise definition, including special rules (e.g. how refusals or partial credit are scored)",Scoring rules can move headline numbers,Conceptual soundness
+C7,Grader described,"Says who or what grades (human, programmatic, LLM judge) and with what instructions",Determines how far results can be trusted,Conceptual soundness
+C8,Grader validated,"Agreement or accuracy against human labels, or other evidence the grader works",An unvalidated judge adds unknown error,Conceptual soundness
+C9,Elicitation described,"Prompting, scaffolding, reasoning effort; whether result is a lower bound on capability",Weak elicitation understates capability,Process and implementation
+C10,Threshold or decision rule justified,"If the evaluation drives a decision, the threshold and its rationale are stated",Links evidence to the decision it supports,Conceptual soundness
+C11,Materials for reproduction available,"Data, code or enough detail to rerun (or a statement why not)",Allows independent checking,Process and implementation
+J1,Conclusion matches evidence (judgment),"Rated on the Evaluations sheet, column 'Follows from data?'",Is the language as strong as the evidence?,Outcomes analysis

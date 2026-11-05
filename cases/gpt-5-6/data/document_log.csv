@@ -1,0 +1,13 @@
+Document log,
+Document title,GPT-5.6 System Card
+Publisher / hub,OpenAI Deployment Safety Hub
+URL,https://deploymentsafety.openai.com/gpt-5-6
+Publication date (as shown),"July 9, 2026"
+Change-log entries seen,"August 3, 2026 (prompt-injection results added); August 19, 2026 (one result corrected)"
+Date accessed,2026-10-19 00:00:00
+Format read (HTML / PDF),"HTML, PDF"
+Sections in scope,"3.1.2, 7.1, 7.2, 7.4"
+Sections out of scope,All sections except for those in scope.
+Auditor,Dmitry Kobelev
+Independence / conflicts statement,"I have no financial or personal ties to the developer of the system reviewed, I did not take part in its design, training or testing, and I did not contribute to the document. This is an independent, educational review based only on the public document."
+Known limits of this review,"Public document only; no access to underlying data, grader outputs or code. Figures were read from image captures of the PDF. Some sample sizes were derived by dividing the positives shown by the rates shown in Figs. 1 and 5 and are marked “derived”. “Not reported” means not visible to the reviewer in the document."
