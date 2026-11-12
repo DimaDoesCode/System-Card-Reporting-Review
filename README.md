@@ -65,7 +65,7 @@ This is an independent, educational work. The author has no financial or persona
 
 ## Corrections
 
-If you are an author of a reviewed document, or you spot a factual error, please open an issue or write to `[your-contact-email]`. Factual corrections will be applied promptly and recorded in `CHANGELOG.md`.
+If you are an author of a reviewed document, or you spot a factual error, please open an issue or write to me. Factual corrections will be applied promptly and recorded in `CHANGELOG.md`.
 
 ## License
 
